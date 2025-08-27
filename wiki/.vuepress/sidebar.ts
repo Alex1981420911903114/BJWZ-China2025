@@ -3,7 +3,6 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     "",
-    "portfolio",
     {
       text: "Demo",
       icon: "laptop-code",

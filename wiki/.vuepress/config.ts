@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/BJWZ-China2025/",
 
   lang: "en-US",
-  title: "Docs Demo",
+  title: "BJWZ-China",
   description: "A docs demo for vuepress-theme-hope",
 
   theme,
