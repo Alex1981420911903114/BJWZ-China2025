@@ -8,3 +8,5 @@ node_modules/
 wiki/.vuepress/.cache/
 wiki/.vuepress/.temp/
 wiki/.vuepress/dist/
+
+.github/workflows
