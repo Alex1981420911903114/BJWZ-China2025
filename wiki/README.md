@@ -1,34 +1,40 @@
 ---
 home: true
 icon: house
+heroFullScreen: true
 title: Project home
 heroImage: /assets/icon/chrome-512.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImage: /assets/image/mainpage/6-light.svg
+bgImageDark: /assets/image/mainpage/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: Project name
-tagline: You can place the description of the project here.
+heroText: BJWZ-China
+tagline: Engaging in designing a simple detection and degradation system for PFAS.
 actions:
-  - text: How to Use
+  - text: Project
     icon: lightbulb
     link: ./demo/
     type: primary
 
-  - text: Docs
+  - text: Team
     link: ./guide/
 
 highlights:
-  - header: Easy to install
-    image: /assets/image/box.svg
+  - header: 布局方式1
+    image: /assets/icon/chrome-BJWZ-China-512-129.png
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
     highlights:
-      - title: Run <code>pnpm create vuepress-theme-hope hope-project</code> to create a new project with this theme.
-      - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
+      - title:  <code>print("Hello ,world!")</code> 这是一个代码块.
+      - details: <del>删除</del><ins>下划线</ins>
+      - title: 对...对吗？哦对的对的 ,哎呀对什么对啊 ,哦不对不对 ,哦我*我**打错了 ,哦布莱克斯。
+      - details: 这行的字比上面那行更细
 
-  - header: Add things you want in markdown
-    description: We extended the standard commonMark specification and added tons of new features for you.
+  - header: 布局方式2
+    description: 背景图片的宽由屏幕决定 ,长由内容的多少决定.
     image: /assets/image/markdown.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
@@ -60,116 +66,6 @@ highlights:
         icon: code
         details: Group similar codes with tabs
         link: https://theme-hope.vuejs.press/guide/markdown/code/code-tabs.html
-
-      - title: Custom Align
-        icon: align-center
-        details: Let you decide to align paragraphs in the way you like
-        link: https://theme-hope.vuejs.press/guide/markdown/stylize/align.html
-
-      - title: Attrs
-        icon: code
-        details: Allow you to add attributes for Markdown content
-        link: https://theme-hope.vuejs.press/guide/markdown/stylize/attrs.html
-
-      - title: Superscript and subscript
-        icon: superscript
-        details: Inserting superscript and subscript
-        link: https://theme-hope.vuejs.press/guide/markdown/stylize/sup-sub.html
-
-      - title: Footnote
-        icon: quote-left
-        details: Your Markdown now support footnotes
-        link: https://theme-hope.vuejs.press/guide/markdown/content/footnote.html
-
-      - title: Mark
-        icon: highlighter
-        details: Mark and highlight contents
-        link: https://theme-hope.vuejs.press/guide/markdown/stylize/mark.html
-
-      - title: Spoiler
-        icon: eraser
-        details: Mark spoiler contents
-        link: https://theme-hope.vuejs.press/guide/markdown/stylize/spoiler.html
-
-      - title: Tasklist
-        icon: square-check
-        details: Use tasklist in Markdown
-        link: https://theme-hope.vuejs.press/guide/markdown/grammar/tasklist.html
-
-      - title: Image syntax
-        icon: image
-        details: improve syntax to specify size and color scheme
-        link: https://theme-hope.vuejs.press/guide/markdown/grammar/image.html
-
-      - title: Component Support
-        icon: puzzle-piece
-        details: Easily insert components in Markdown
-        link: https://theme-hope.vuejs.press/guide/component/grammar.html
-
-      - title: Components
-        icon: puzzle-piece
-        details: Common components out fo box
-        link: https://theme-hope.vuejs.press/guide/component/built-in.html
-
-      - title: Chart Support
-        icon: chart-simple
-        details: Display charts in Markdown
-        link: https://theme-hope.vuejs.press/guide/markdown/chart/chartjs.html
-
-      - title: Flowchart Support
-        icon: route
-        details: Create your flowchart in Markdown
-        link: https://theme-hope.vuejs.press/guide/markdown/chart/flowchart.html
-
-      - title: Mermaid Support
-        icon: chart-pie
-        details: Add mermaid diagram in Markdown
-        link: https://theme-hope.vuejs.press/guide/markdown/chart/mermaid.html
-
-      - title: Plantuml Support
-        icon: diagram-project
-        details: Add plantuml in Markdown
-        link: https://theme-hope.vuejs.press/guide/markdown/chart/plantuml.html
-
-      - title: Tex Support
-        icon: square-root-variable
-        details: Markdown now have Tex Support so you can write your formula
-        link: https://theme-hope.vuejs.press/guide/markdown/grammar/math.html
-
-      - title: Include snippet Support
-        icon: fa6-brands:markdown
-        details: split your docs with different parts and import them in Markdown
-        link: https://theme-hope.vuejs.press/guide/markdown/content/include.html
-
-      - title: Playground Support
-        icon: code
-        details: You can add playground in Markdown files
-        link: https://theme-hope.vuejs.press/guide/markdown/code/playground.html
-
-      - title: Kotlin playground Support
-        icon: fa6-brands:kickstarter
-        details: Reactive kotlin playground
-        link: https://theme-hope.vuejs.press/guide/markdown/code/kotlin-playground.html
-
-      - title: Vue playground Support
-        icon: fa6-brands:vuejs
-        details: Show living vue component in playground
-        link: https://theme-hope.vuejs.press/guide/markdown/code/vue-playground.html
-
-      - title: Sandpack playground Support
-        icon: code
-        details: A live coding environment driven by Sandpack.
-        link: https://theme-hope.vuejs.press/guide/markdown/code/sandpack.html
-
-      - title: Code Demo Support
-        icon: laptop-code
-        details: You can insert code demo easily
-        link: https://theme-hope.vuejs.press/guide/markdown/code/demo.html
-
-      - title: Presentation Support
-        icon: person-chalkboard
-        details: Insert presentation in Markdown files via Reveal.js
-        link: https://theme-hope.vuejs.press/guide/markdown/content/revealjs.html
 
   - header: Customizable UI
     description: Customizable outlook with full a11y support.
