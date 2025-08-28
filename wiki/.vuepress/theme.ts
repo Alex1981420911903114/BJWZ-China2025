@@ -4,18 +4,15 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
+  darkmode: "disable",
+
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
-  },
-
+  
   logo: "/assets/icon/chrome-192.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/Alex1981420911903114/BJWZ-China2025",
 
-  docsDir: "src",
+  docsDir: "wiki",
 
   // navbar
   navbar,
@@ -23,7 +20,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "© 2025 - Content on this site is licensed under a Creative Commons Attribution 4.0 International license.",
 
   displayFooter: true,
 
@@ -113,13 +110,13 @@ export default hopeTheme({
   plugins: {
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
+    // comment: {
+      // provider: "Giscus",
+      // repo: "vuepress-theme-hope/giscus-discussions",
+      // repoId: "R_kgDOG_Pt2A",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOG_Pt2M4COD69",
+    // },
 
     components: {
       components: ["Badge", "VPCard"],
@@ -128,6 +125,8 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
+
+    activeHeaderLinks: true,
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {

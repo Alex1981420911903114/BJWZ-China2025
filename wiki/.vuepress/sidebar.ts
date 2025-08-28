@@ -2,24 +2,106 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "",
     {
-      text: "Demo",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
+      text: "Team",
+      icon: "/assets/icon/people.svg",
+      prefix: "team/",
+      children: [
+        {
+          text: "Attribute",
+          icon: "/assets/icon/star.svg",
+          link: "attribute"
+        },
+        {
+          text: "The Team",
+          icon: "/assets/icon/people.svg",
+          link: "theteam"
+        }
+      ]
     },
     {
-      text: "Docs",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
+      text: "Project",
+      icon: "/assets/icon/flask.svg",
+      prefix: "project/",
+      children: [
+        {
+          text: "Description",
+          icon: "/assets/icon/bookmarks.svg",
+          link: "description",
+        },
+        {
+          text: "Design",
+          icon: "/assets/icon/pencil.svg",
+          link: "design",
+        },
+        {
+          text: "Engineering",
+          icon: "/assets/icon/measuring-cup.svg",
+          link: "engineering",
+  
+        },
+        {
+          text: "Results",
+          icon: "/assets/icon/file-earmark-bar-graph.svg",
+          link: "results",
+        },
+        {
+          text: "Model",
+          icon: "/assets/icon/calculator.svg",
+          link: "model",
+  
+        },
+        {
+          text: "Parts",
+          icon: "/assets/icon/lightning.svg",
+          link: "parts",
+  
+        },
+        {
+          text: "Hardware",
+          icon: "/assets/icon/gear.svg",
+          link: "hardware",
+  
+        },
+        {
+          text: "Safety",
+          icon: "/assets/icon/shield.svg",
+          link: "safety",
+  
+        },
+        {
+          text: "Contribution",
+          icon: "/assets/icon/person-arms-up.svg",
+          link: "contribution",
+  
+        },
+      ],
     },
     {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
+      text: "Human Practices",
+      icon: "/assets/icon/person-walking.svg",
+      prefix: "humanpractices",
+      link: "humanpractices",
+      children: "structure"
     },
+    {
+      text: "Notebook",
+      icon: "/assets/icon/book.svg",
+      prefix: "notebook",
+      link: "notebook",
+      children: "structure"
+    },
+    {
+      text: "Software",
+      icon: "/assets/icon/code-slash.svg",
+      prefix: "software",
+      link: "software",
+      children: "structure"
+    },
+    // {
+      // text: "Slides",
+      // icon: "person-chalkboard",
+      // link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
+    // },
   ],
 });

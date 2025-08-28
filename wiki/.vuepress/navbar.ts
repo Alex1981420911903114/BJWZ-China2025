@@ -1,8 +1,7 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",,
-  "/demo/",
+  "/",
   {
     text: "Team",
     icon: "/assets/icon/people.svg",
@@ -10,12 +9,12 @@ export default navbar([
       {
         text: "Attribute",
         icon: "/assets/icon/star.svg",
-        link: "attribute/",
+        link: "team/attribute",
       },
       {
         text: "The Team",
         icon: "/assets/icon/people.svg",
-        link: "theteam/",
+        link: "team/theteam",
       },
     ],
   },
@@ -26,52 +25,52 @@ export default navbar([
       {
         text: "Description",
         icon: "/assets/icon/bookmarks.svg",
-        link: "description/",
+        link: "project/description",
       },
       {
         text: "Design",
         icon: "/assets/icon/pencil.svg",
-        link: "design/",
+        link: "project/design",
       },
       {
         text: "Engineering",
         icon: "/assets/icon/measuring-cup.svg",
-        link: "engineering/",
+        link: "project/engineering",
 
       },
       {
         text: "Results",
         icon: "/assets/icon/file-earmark-bar-graph.svg",
-        link: "results/",
+        link: "project/results",
       },
       {
         text: "Model",
         icon: "/assets/icon/calculator.svg",
-        link: "model/",
+        link: "project/model",
 
       },
       {
         text: "Parts",
         icon: "/assets/icon/lightning.svg",
-        link: "parts/",
+        link: "project/parts",
 
       },
       {
         text: "Hardware",
         icon: "/assets/icon/gear.svg",
-        link: "hardware/",
+        link: "project/hardware",
 
       },
       {
         text: "Safety",
         icon: "/assets/icon/shield.svg",
-        link: "safety/",
+        link: "project/safety",
 
       },
       {
         text: "Contribution",
         icon: "/assets/icon/person-arms-up.svg",
-        link: "contribution/",
+        link: "project/contribution",
 
       },
     ],
@@ -79,7 +78,7 @@ export default navbar([
   {
     text: "Human Practices",
     icon: "/assets/icon/person-walking.svg",
-    link: "humanpractices/",
+    link: "humanpractices",
 
   },
   {
