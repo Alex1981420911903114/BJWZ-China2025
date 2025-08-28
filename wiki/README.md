@@ -13,11 +13,11 @@ tagline: Engaging in designing a simple detection and degradation system for PFA
 actions:
   - text: Project
     icon: lightbulb
-    link: ./demo/
+    link: ./project/description
     type: primary
 
   - text: Team
-    link: ./guide/
+    link: ./team/theteam
 
 highlights:
   - header: 布局方式1
