@@ -103,7 +103,7 @@ The standard amount of template for regular PCR is 100 ng, system volume 20 μL;
 PCR program temperatures and times are determined based on the enzyme used, PCR product length, and primer annealing temperatures.
 
 *Table 6: Reaction Procedures of PCR*
-![alt text](/wiki/project/images/table6.png)
+
 
 ## IV. Experimental Procedure
 Expression Plasmid Sequence Synthesis and Construction:Degradation of arabinose in E. coli requires three genes: araB, araA, and araD, which form a gene cluster abbreviated as araBAD; The arabinose promoter, ribosome binding site, araBAD, and ccdB were fused into one fragment for ccdB expression. Additionally, the araC gene needs to be synthesized to regulate araBAD transcription when arabinose is added.
