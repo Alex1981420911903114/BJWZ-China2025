@@ -1,1 +1,23 @@
 # Description
+---
+## Problem
+Short-chain PFAS (carbon chain length C4-C6) belong to the class of per- and polyfluoroalkyl substances (PFAS). PFAS exhibit extreme biological stability and have widespread health impacts. PFAS may increase the risk of heart disease in humans and adversely affect child development. Studies show that PFAS is linked to adverse health effects such as high cholesterol, a slowed immune system, reduced disease resistance, and induced liver cancer. The presence of PFAS also has severe impacts on the ecological environment. PFAS can cause death in aquatic, soil, and airborne organisms, disrupting ecological balance. Over time, PFAS can accumulate in higher trophic level animals in the food chain, leading to toxin accumulation. Additionally, PFAS can inhibit the growth of aquatic plants and animals, cause fishery losses, food poisoning, environmental pollution, etc.
+PFAS are called "forever chemicals" because their carbon-fluorine bonds are extremely difficult to degrade naturally. Short-chain PFAS are more soluble in water and mobile than long-chain ones and have been widely detected in global water bodies, soil, and organisms: in coastal Chinese provinces (e.g., Guangdong, Fujian), PFAS pollution is severe, with high ecological risk for PFOS (long-chain) in some areas, but the accumulation trend of short-chain PFAS is also rising. The US Environmental Protection Agency (EPA) has found short-chain PFAS (e.g., PFBA) co-contaminating groundwater with 1,4-dioxane at multiple Superfund sites (e.g., Tinkham Garage), threatening drinking water safety.
+Current methods for treating short-chain PFAS are lacking, and some traditional methods have limitations. For example, activated carbon adsorption and reverse osmosis are effective for long-chain PFAS but inefficient for short-chain; foam fractionation requires adding surfactants (e.g., CTAB) to enhance short-chain PFAS removal, experimentally shown to reduce levels below 8 ng/L, but large-scale application costs are high. Meanwhile, PFAS detection methods primarily rely on large instruments for chemical analysis (e.g., LC-MS), also requiring extremely high costs. In summary, both detection and degradation of PFAS currently require extremely high costs and are inefficient, thus creating an urgent need for emerging technologies to handle short-chain PFAS.
+
+## Our Inspiration
+PFAS contain numerous carbon-fluorine bonds, making the most effective means of degradation breaking these C-F bonds and precipitating the dissociated fluoride ions. We hoped to find a solution using engineered E. coli to construct an integrated PFAS "detection-degradation" system. When PFAS is present, the E. coli automatically completes "luminescence warning" and "degradation initiation." It indicates the presence of PFAS in wastewater by emitting green fluorescence, breaks the carbon-fluorine bonds on PFAS, transports the resulting fluoride ions out of the cell, and forms a precipitate with calcium ions in the environment, completing the degradation of PFAS.
+
+## Our Solution
+Based on the above principle, we established an experimental project hoping to effectively degrade and detect PFAS.
+We connected a simplified and modified PFAS-responsive promoter to the green fluorescent protein (GFP) gene and the PFAS dehalogenase gene (dhaA).
+When the environmental PFAS concentration reaches a certain level, the E. coli emits green fluorescence, and simultaneously the dehalogenase breaks the PFAS carbon-fluorine bonds within the cell, producing fluoride ions.
+After fluoride ions are produced, a fluoride ion transporter protein transports them outside the cell, where they form a precipitate with calcium ions in the environment. Simultaneously, the E. coli emits red fluorescence indicating the transporter protein has begun expression.
+Additionally, an arabinose operon is used to control the expression of the ccdB toxin protein, ensuring the maintenance of biosafety measures.
+
+## Our Goals
+We hope to achieve the following three expected outcomes through this project.
+* In water samples containing PFAS, the engineered bacteria will emit green fluorescence.
+* Degrade PFAS, forming calcium fluoride precipitate, with the engineered bacteria emitting red fluorescence.
+* After adding an appropriate concentration of arabinose, the engineered bacteria commit suicide.
+We hope to achieve these goals and contribute to others.
