@@ -87,10 +87,5 @@ export default navbar([
     link: "notebook/",
 
   },
-  {
-    text: "Software",
-    icon: "/assets/icon/code-slash.svg",
-    link: "software/",
 
-  },
 ]);

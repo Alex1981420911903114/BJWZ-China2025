@@ -91,13 +91,6 @@ export default sidebar({
       link: "notebook",
       children: "structure"
     },
-    {
-      text: "Software",
-      icon: "/assets/icon/code-slash.svg",
-      prefix: "software",
-      link: "software",
-      children: "structure"
-    },
     // {
       // text: "Slides",
       // icon: "person-chalkboard",
