@@ -1,3 +1,5 @@
+# Design
+
 To achieve our goals, we designed three plasmids.
 
 The first plasmid utilizes the prmA promoter, whose expression is regulated by Per- and polyfluoroalkyl substances (PFAS). When the environmental PFAS concentration is high, the prmA promoter is activated, initiating the expression of the dhaA gene encoding a PFAS-degrading enzyme. Simultaneously, it initiates the expression of the gene for Green Fluorescent Protein (GFP), causing the engineered bacteria to emit green fluorescence under excitation light. When PFAS is absent in the environment, the downstream genes are not expressed.
