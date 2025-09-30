@@ -84,7 +84,7 @@ export default navbar([
   {
     text: "Notebook",
     icon: "/assets/icon/book.svg",
-    link: "notebook/",
+    link: "notebook",
 
   },
 
