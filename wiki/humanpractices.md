@@ -1,5 +1,6 @@
 # Human Practices
 ---
+![Our team is discussing with water treatment plant workers](/assets/image/hp/hp_photo.png)
 ## Overview
 Per- and polyfluoroalkyl substances (PFAS), known as "forever chemicals" due to their persistence, are difficult to degrade in the environment and are widely found in drinking water and soil. These substances can inhibit plant growth in water bodies and affect humans through the food chain, increasing the risk of heart disease. Traditional detection relies on large instruments (such as LC-MS), and degradation requires complex conditions like high temperature and high pressure, making it unsuitable for low-cost widespread adoption. Therefore, BJWZ-China has developed a simple PFAS detection and degradation system based on engineered E. coli. Facing numerous challenges in experiments and large-scale implementation, we realized the limitations of relying solely on our team's internal insights. Ultimately, we collaborated with numerous professors from Beijing Normal University and professionals within wastewater treatment plants to improve our project.
 To implement the project, we partnered with the iGEM team BNU-China, who focused on assisting us with initial project topic selection, standard experimental operating procedures, and providing training on laboratory safety knowledge.

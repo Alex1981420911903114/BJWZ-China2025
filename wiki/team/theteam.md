@@ -1,5 +1,5 @@
 # The Team
-
+![The team photo](/assets/image/theteam/team_photo.png)
 
 |  Name  |  Photos  |  Introduction  |
 |  ---  |  ---  |  ---  |
