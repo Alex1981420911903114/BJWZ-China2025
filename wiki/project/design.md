@@ -1,3 +1,5 @@
+# Design
+
 Three Designed Devices to Achieve Our Goals
 
 1. PFAS-sensitive Promoter (prmA) Device: The expression of subsequent elements is driven by the PFAS-sensitive promoter prmA. When the PFAS concentration in the environment is high, the prmA promoter is activated, initiating the expression of the dhaA gene (which encodes PFAS dehalogenase) and the gene encoding GFP (Green Fluorescent Protein) simultaneously. This causes the engineered bacteria to emit green fluorescence under excitation light. In the absence of PFAS in the environment, the downstream genes remain unexpressed.
