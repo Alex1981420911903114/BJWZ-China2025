@@ -17,9 +17,9 @@ For daily applications, the system safeguards drinking water safety by visually 
 ### Purification process
 
 Engineered E. coli BL21-T3 is encapsulated within gel particles (e.g., chitosan-g-polymethacrylic acid) and immobilized in Trough 1. Wastewater containing a defined concentration of PFAS is then passed through the adsorption device at a controlled flow rate, during which PFAS molecules enter the bacterial cells and undergo biodegradation. Following this adsorption treatment, the water flows into Trough 2, which contains a high concentration of calcium chloride, where calcium ions react with fluoride ions to form insoluble calcium fluoride precipitates. Once the water exiting Trough 2 shows no further precipitate formation, it can be directed to downstream reprocessing or discharged in compliance with regulatory standards.
-![contribution1](/assets/image/project/contribution1.png)
+![contribution1](https://static.igem.wiki/teams/5838/project/contribution1.webp)
 
 ### Contribution to the Sustainable Development Goals
 
 Sustainable development is a long and ongoing journey that requires the awareness and active participation of both current and future generations. This project constructs an integrated PFAS (per- and polyfluoroalkyl substances) "detection-degradation" system by engineering Escherichia coli, which is capable of specifically recognizing and degrading PFAS. It reduces the costs of detection and degradation, contributing to solving water pollution issues (corresponding to SDG 6: Clean Water and Sanitation); mitigates the threats of PFAS to human health (related to SDG 3: Good Health and Well-being); prevents the engineered bacteria from leaking through biosafety design, avoiding secondary ecological pollution (in line with SDG 14: Life Below Water and SDG 15: Life on Land); and promotes low-cost bioremediation technologies to drive the sustainable development of the environmental protection industry (responding to SDG 12: Responsible Consumption and Production and SDG 13: Climate Action).We hope that our contribution not only provides a strong foundation for this journey but also helps create a better, more sustainable future that goes beyond the present.
-![contribution2](/assets/image/project/contribution2.png)
+![contribution2](https://static.igem.wiki/teams/5838/project/contribution2.webp)

@@ -120,7 +120,7 @@ The amount of template for conventional PCR is 10 ng~100 ng, and the system is 2
 The temperature and time of the PCR program are determined according to the enzyme used, the length of the PCR and the annealing temperature of the primers.
 
 ***Table 6: PCR Reaction Steps***
-![Table6](/assets/image/project/PCR-steps.png)
+![Table6](https://static.igem.wiki/teams/5838/project/pcr-steps.webp)
 
 ## IV. Experimental Procedure
 
