@@ -56,12 +56,6 @@ export default navbar([
 
       },
       {
-        text: "Hardware",
-        icon: "/assets/icon/gear.svg",
-        link: "project/hardware",
-
-      },
-      {
         text: "Safety",
         icon: "/assets/icon/shield.svg",
         link: "project/safety",

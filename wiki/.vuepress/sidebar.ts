@@ -58,12 +58,6 @@ export default sidebar({
   
         },
         {
-          text: "Hardware",
-          icon: "/assets/icon/gear.svg",
-          link: "hardware",
-  
-        },
-        {
           text: "Safety",
           icon: "/assets/icon/shield.svg",
           link: "safety",
