@@ -25,7 +25,7 @@ We transformed the plasmid pSuicide into the host strain BL21 (DE3), plated onto
 ![results4](https://static.igem.wiki/teams/5838/results/results4.webp)
 ***Fig. 4. Results of pSuicide transformation***
 
-Upon analysis, we believed there were two possible reasons for this phenomenon: First, the premature expression of toxic genes: both “ccdB” and “MazF” on the vector are toxic genes; the ccdB protein inhibited DNA gyrase activity leading to host cell death; or MazF was an RNase that can degrade mRNA. If either of these genes were expressed prematurely after transformation, it could directly kill the BL21(DE3) host. 
+Upon analysis, we believed there were two possible reasons for this phenomenon: First, the premature expression of toxic genes: both “ccdB” and “MazF” on the vector are toxic genes; the ccdB protein inhibited DNA gyrase activity leading to host cell death; or MazF was an RNase that could degrade mRNA. If either of these genes were expressed prematurely after transformation, it could directly kill the BL21(DE3) host. 
 
 Second, leaky expression of regulatory elements: the arabinose operon (araBAD promoter) theoretically requires arabinose induction, but there may be basal leakage (especially with high-copy vectors), resulting in low-level expression of ccdB. Third, if the temperature-sensitive switch does not effectively close at the culture temperature (such as 37°C), it may initiate the expression of MazE/F, which could potentially be lethal even if the induction conditions are not met.
 
@@ -103,7 +103,7 @@ Lanes 1, 4, 5, 7, and 9 simultaneously show bands for ccdB and crcB, proving tha
 
 ### 2. Functional validation of pET-28a-CrcB
 
-We selected the number 4 transformant using an inoculation loop to purify on LB solid medium containing the corresponding antibiotic. We inoculate a single colony into 5 mL of liquid LB medium with the corresponding antibiotic and cultured at 37°C, 200 rpm for 18 h. Take 10 μL and drop it onto solid LB medium containing different concentrations of NaF, and culture at 37°C for 48 h.
+We selected the number 4 transformant using an inoculation loop to purify on LB solid medium containing the corresponding antibiotic. We inoculated a single colony into 5 mL of liquid LB medium with the corresponding antibiotic and cultured at 37°C, 200 rpm for 18 h. We took 10ul and dropped onto LB medium containing different concentrations of NaF, and cultured at 35℃ for 48 hours.
 
 ![results15](https://static.igem.wiki/teams/5838/results/results15.webp)
 ***Fig. 15. Growth of strains under different NaF concentrations***
@@ -142,7 +142,8 @@ From this, it is evident that lanes 4, 10, 11, 12, 16, 17, and 18 each have corr
 According to the concentration gradient set in Table 2, different concentrations of perfluorobutyric acid (PFBA) and perfluorooctanoic acid (PFOA) were added and cultured at 37°C for 16 h, and the OD600 values were measured. The results are as follows:
 
 ![results19](https://static.igem.wiki/teams/5838/results/results19.webp)
-Fig. 19. Fitting curves of OD600 values with different concentrations of PFBA and PFOA
+**Fig. 19. Fitting curves of OD600 values with different concentrations of PFBA and PFOA**
+
 PFOA has a longer carbon chain and can easily disrupt the integrity of cell membranes through hydrophobic interactions, thereby inducing oxidative stress; PFBA has a shorter carbon chain, higher water solubility, and weaker bioaccumulation, resulting in less damage to structures such as cell membranes. At low concentrations, it may induce adaptive metabolic adjustments in bacteria, or because it interferes less with cell functions, the growth response of bacteria may differ from that of PFOA.
 The red dashed line in the figure represents the effect of PFOA concentration on bacterial growth, and at a high concentration of 80 mg/L, there is no significant inhibitory effect on the growth of the engineered strain; the blue dashed line represents the effect of PFBA concentration on bacterial growth, and at a high concentration of 400 mg/L, there is no significant inhibitory effect on the growth of the engineered strain.
 In summary, we conclude that PFAS has no significant effect on the growth of the engineered bacteria within the experimental concentrations referenced, and therefore, it is likely to tolerate higher concentrations of PFAS in future applications, therefore it is also more likely to adapt to different application environments.

@@ -5,34 +5,32 @@ export default sidebar({
     {
       text: "Team",
       icon: "/assets/icon/people.svg",
-      prefix: "team/",
       children: [
         {
-          text: "Attribute",
+          text: "Attributions",
           icon: "/assets/icon/star.svg",
-          link: "attribute"
+          link: "attributions"
         },
         {
           text: "The Team",
           icon: "/assets/icon/people.svg",
-          link: "theteam"
+          link: "team/theteam"
         }
       ]
     },
     {
       text: "Project",
       icon: "/assets/icon/flask.svg",
-      prefix: "project/",
       children: [
         {
           text: "Description",
           icon: "/assets/icon/bookmarks.svg",
-          link: "description",
+          link: "project/description",
         },
         {
           text: "Design",
           icon: "/assets/icon/pencil.svg",
-          link: "design",
+          link: "project/design",
         },
         {
           text: "Engineering",
@@ -43,24 +41,24 @@ export default sidebar({
         {
           text: "Results",
           icon: "/assets/icon/file-earmark-bar-graph.svg",
-          link: "results",
+          link: "project/results",
         },
         {
           text: "Model",
           icon: "/assets/icon/calculator.svg",
-          link: "model",
+          link: "project/model",
   
         },
         {
           text: "Parts",
           icon: "/assets/icon/lightning.svg",
-          link: "parts",
+          link: "project/parts",
   
         },
         {
           text: "Safety",
           icon: "/assets/icon/shield.svg",
-          link: "safety",
+          link: "safety-and-security",
   
         },
         {
@@ -74,8 +72,8 @@ export default sidebar({
     {
       text: "Human Practices",
       icon: "/assets/icon/person-walking.svg",
-      prefix: "humanpractices",
-      link: "humanpractices",
+      prefix: "human-practices",
+      link: "human-practices",
       children: "structure"
     },
     {

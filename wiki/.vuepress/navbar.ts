@@ -7,9 +7,9 @@ export default navbar([
     icon: "/assets/icon/people.svg",
     children: [
       {
-        text: "Attribute",
+        text: "Attributions",
         icon: "/assets/icon/star.svg",
-        link: "team/attribute",
+        link: "attributions",
       },
       {
         text: "The Team",
@@ -35,7 +35,7 @@ export default navbar([
       {
         text: "Engineering",
         icon: "/assets/icon/measuring-cup.svg",
-        link: "project/engineering",
+        link: "engineering",
 
       },
       {
@@ -58,13 +58,13 @@ export default navbar([
       {
         text: "Safety",
         icon: "/assets/icon/shield.svg",
-        link: "project/safety",
+        link: "safety-and-security",
 
       },
       {
         text: "Contribution",
         icon: "/assets/icon/person-arms-up.svg",
-        link: "project/contribution",
+        link: "contribution",
 
       },
     ],
@@ -72,7 +72,7 @@ export default navbar([
   {
     text: "Human Practices",
     icon: "/assets/icon/person-walking.svg",
-    link: "humanpractices",
+    link: "human-practices",
 
   },
   {
