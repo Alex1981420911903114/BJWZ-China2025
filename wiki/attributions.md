@@ -1,4 +1,4 @@
-# Attribute
+# Attributions
 
 ## ***Table 1: Team Member Contributions***
 | Name | Role | General Tasks | Specific Tasks |

@@ -56,7 +56,7 @@ export default navbar([
 
       },
       {
-        text: "Safety",
+        text: "Safety and Security",
         icon: "/assets/icon/shield.svg",
         link: "safety-and-security",
 

@@ -56,7 +56,7 @@ export default sidebar({
   
         },
         {
-          text: "Safety",
+          text: "Safety and Security",
           icon: "/assets/icon/shield.svg",
           link: "safety-and-security",
   
@@ -83,10 +83,5 @@ export default sidebar({
       link: "notebook",
       children: "structure"
     },
-    // {
-      // text: "Slides",
-      // icon: "person-chalkboard",
-      // link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
-    // },
   ],
 });
