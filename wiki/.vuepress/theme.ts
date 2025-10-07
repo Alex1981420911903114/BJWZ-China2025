@@ -10,8 +10,6 @@ export default hopeTheme({
   
   logo: "/assets/icon/chrome-192.png",
 
-  repo: "https://github.com/Alex1981420911903114/BJWZ-China2025",
-
   docsDir: "wiki",
 
   // navbar
