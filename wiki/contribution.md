@@ -1,10 +1,12 @@
 # Contribution
 
 ## Overview:
+
 Our team focused on dealing the chemical compounds such as PFAS via our engineering bacteria E. coli BL21(DE3), and consequently inspire and motivate water treatment actions, reducing negative effects caused by industrial wastes or some daily necessities.
 
 ## Parts:
-We found three relevant parts that can benefit our progress， including ccdB, leading the bacteria to suicide; crcB, transporting the ionized flouride out of the cell; and dhaA, which releases a specific dehalogenase that decomposes PFAS. Through multiple experimental tests and strict analyses, we have confirmed the effectiveness of those parts.
+
+This year, BJWZ-China has made contributions of 2 suceed basic parts, 4 composite parts and 2 biocontainment system. For the composite parts, the team has engineered comprehensive genetic circuits comprising operators, distinct ribosome binding sites (RBS), and signal peptides， linkers, which are designed to enable direct utilization by future iGEM participants. Additionally, a suicidal system derived from BNU-China and BJWZ-China-2024 has been integrated to enhance the biosafety of the engineered system, thereby mitigating the potential risks of genetically modified organisms impacting natural ecosystems.
 
 ## Hardware:
 

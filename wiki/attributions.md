@@ -1,6 +1,6 @@
 # Attributions
 
-## ***Table 1: Team Member Contributions***
+## ***Table 1 Team Member Contributions***
 | Name | Role | General Tasks | Specific Tasks |
 | ---- | ---- | ------------- | -------------- |
 | Wang lei| PRIMARY PI | Fundraising, Other | Fundraising-She offers us financial support . Other- She helped organize BJWZ-China |
@@ -20,7 +20,7 @@
 | Zhou Lesi | STUDENT | Conceptualization, Background Research, Public Engagement, Project Administration, Visualization, Hardware | Analysis, Background Research, Conceptualization, Investigation- as team leader, she came up with the idea of using e-coli to break down water pollutants(specifically PFAS) and completed background research as foundation for the project. Project Administration-she developed our initial project plan. Hardware- she designs the hardware for our water purification device. Visualization- she films parts of the presentation video and edits the team website. Public Engagemt- she participates in team activities to promote our project to the community. |
 | Xinyi Zhang | STUDENT | Investigation, Conceptualization, Hardware, Public Engagement, Analysis | Conceptualization,Investigation- as a member of the WetLab, he participates in brainstorming and experiments. Analysis-he analyses our experiment results through mathematical modeling, helping us optimize further experiments. Public Engagement- he participates in team activities to promote our project to the public. Hardware- he helps design hardware for our water purification device. |
 
-## ***Table 2: External Contributions***
+## ***Table 2 External Contributions***
 | Name | Institution Type | Relationship to the team | General Tasks | Specific Tasks |
 | ---- | ---------------- | ------------------------ | ------------- | -------------- |
 | BNU-China | Academic | Collaborator | Investigation, Analysis | They provide us with academic guidance and advice, as well as allow us to use their lab. |
@@ -30,7 +30,7 @@
 | 2nd Lab® | Industry | Contractor | Investigation | They provide us with e-coli. |
 | Fan Yang | Academic | External Advisor | Project Administration, Safety | Safety- she ensures that the activities carried out comply with the safety guidelines and requirements of iGEM and our school. Project administration- she inspects our plans for project activities. |
 
-## ***Table 3: Timeline***
+## ***Table 3 Timeline***
 | Activity | Start Date | End Date | Total Time |
 | -------- | ---------- | -------- | ---------- |
 | Building the Team Wiki | 2025 July 30th | 2025 October 10th | 10 weeks |

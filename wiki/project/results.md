@@ -25,9 +25,10 @@ We transformed the plasmid pSuicide into the host strain BL21 (DE3), plated onto
 ![results4](https://static.igem.wiki/teams/5838/results/results4.webp)
 ***Fig. 4. Results of pSuicide transformation***
 
-Upon analysis, we believed there were two possible reasons for this phenomenon: First, the premature expression of toxic genes: both “ccdB” and “MazF” on the vector are toxic genes; the ccdB protein inhibited DNA gyrase activity leading to host cell death; or MazF was an RNase that could degrade mRNA. If either of these genes were expressed prematurely after transformation, it could directly kill the BL21(DE3) host. 
-
-Second, leaky expression of regulatory elements: the arabinose operon (araBAD promoter) theoretically requires arabinose induction, but there may be basal leakage (especially with high-copy vectors), resulting in low-level expression of ccdB. Third, if the temperature-sensitive switch does not effectively close at the culture temperature (such as 37°C), it may initiate the expression of MazE/F, which could potentially be lethal even if the induction conditions are not met.
+Upon analysis, we believed there were three possible reasons for this phenomenon: 
+First, the premature expression of toxic genes: both “ccdB” and “MazF” on the vector are toxic genes; the ccdB protein inhibited DNA gyrase activity leading to host cell death; or MazF was an RNase that could degrade mRNA. If either of these genes were expressed prematurely after transformation, it could directly kill the BL21(DE3) host. 
+Second, leaky expression of regulatory elements: the arabinose operon (araBAD promoter) theoretically requires arabinose induction, but there may be basal leakage (especially with high-copy vectors), resulting in low-level expression of ccdB.
+Third, if the temperature-sensitive switch does not effectively close at the culture temperature (such as 37°C), it may initiate the expression of MazE/F, which could potentially be lethal even if the induction conditions are not met.
 
 ## III. Using pCDFDuet-ccdB plasmid as a suicide plasmid
 Initially, we designed a plasmid that simultaneously had a temperature-controlled MazE/F system and an arabinose-regulated ccdB system, but the suicide system was not functioning properly. Therefore, we improved the suicide system.
@@ -103,7 +104,7 @@ Lanes 1, 4, 5, 7, and 9 simultaneously show bands for ccdB and crcB, proving tha
 
 ### 2. Functional validation of pET-28a-CrcB
 
-We selected the number 4 transformant using an inoculation loop to purify on LB solid medium containing the corresponding antibiotic. We inoculated a single colony into 5 mL of liquid LB medium with the corresponding antibiotic and cultured at 37°C, 200 rpm for 18 h. We took 10ul and dropped onto LB medium containing different concentrations of NaF, and cultured at 35℃ for 48 hours.
+We selected the number 4 transformant using an inoculation loop to purify on LB solid medium containing the corresponding antibiotic. We inoculated a single colony into 5 mL of liquid LB medium with the corresponding antibiotic and cultured at 37°C, 200 rpm for 18 h. We took 10ul and dropped onto LB medium containing different concentrations of NaF, and cultured at 37℃ for 48 hours.
 
 ![results15](https://static.igem.wiki/teams/5838/results/results15.webp)
 ***Fig. 15. Growth of strains under different NaF concentrations***

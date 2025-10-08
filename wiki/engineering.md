@@ -10,7 +10,7 @@ Per- and polyfluoroalkyl substances (PFAS), known as "persistent chemicals", are
 
 The chassis strain we used is E. coli BL21 (DE3), which has high tolerance to PFAS, so there is no need to worry that excessive absorption of PFAS will reduce bacterial activity; after engineering design, it is used in the laboratory for PFAS degradation research. DH5α is used for efficient amplification of target plasmids.
 
-***Table 1: The strains and Plasmids Used in This Study***
+***Table 1 The strains and Plasmids Used in This Study***
 | Name | Functional Description | Source |
 | ---- | ---------------------- | ------ |
 | E.coli DH5α | Amplification of target plasmid | 2nd Lab® |
@@ -32,7 +32,7 @@ In addition, pET-21b (+) was used to express another suicide system MazE/F.
 
 We used LB medium and added antibiotics and expression inducers as needed. The complete list is as follows:
 
-***Table 2: Experimental Reagents***
+***Table 2 Experimental Reagents***
 | Reagent name | Manufacturer |
 | ------------ | ------------ |
 | Restriction endonuclease | TaKaRa |
@@ -49,8 +49,8 @@ We used LB medium and added antibiotics and expression inducers as needed. The c
 | Kanamycin sulfate | Sangon Biotech |
 | 50×TAE | Sangon Biotech |
 | NaF | Sangon Biotech |
-| PFBA | PSAITONG |
-| PFOA | PSAITONG |
+| PFBA(Chemical Standard) | PSAITONG |
+| PFOA(Chemical Standard) | PSAITONG |
 | LB Broth | BeSebio |
 | LB Agar | BeSebio |
 | L-(+)-Arabinose | PSAITONG |
@@ -85,7 +85,7 @@ Agarose gel electrophoresis was used to detect the PCR product. After confirming
 
 Enzyme digestion reaction was used to verify whether the target plasmid was ligated correctly, usually single or double enzyme digestion was used; the enzyme digestion template should be determined according to the size of the target band, generally 200～300 ng of the target plasmid was digested in a 10 μL system.
 
-***Table 3: Restriction Digestion Reaction System***
+***Table 3 Restriction Digestion Reaction System***
 | Reagent Name | Reagent Dosage |
 | ------------- | -------------- |
 | Enzyme A | 2 μL |
@@ -96,7 +96,7 @@ Enzyme digestion reaction was used to verify whether the target plasmid was liga
 
 The target fragment was ligated with the enzyme-digested vector. The product after In-Fusion ligation reaction was transformed into E. coli. The 10 μL ligation system is as follows:
 
-***Table 4: Ligation System for Gene Fragment and Vector Plasmid***
+***Table 4 Ligation System for Gene Fragment and Vector Plasmid***
 | Reagent Name | Reagent Dosage |
 | ------------- | -------------- |
 | Linearized plasmids recycling products | A μL (200 ng) |
@@ -107,7 +107,7 @@ The target fragment was ligated with the enzyme-digested vector. The product aft
 Flick the bottom of the PCR tube to mix the mixture, centrifuge briefly, and place it in a metal bath at 50°C for 15 minutes. At the end of the reaction, take 5 μL of the ligation product for E. coli transformation.
 The amount of template for conventional PCR is 10 ng~100 ng, and the system is 20 mL; in the case of colony PCR, the enzyme, buffer and dNTP in the system are all included in the 2×PCR Mix.
 
-***Table 5: Common PCR Reaction System***
+***Table 5 Common PCR Reaction System***
 | Reagent Name | Reagent Dosage |
 | ------------- | -------------- |
 | 10×Ex-taq buffer | 2 μL |
@@ -119,7 +119,7 @@ The amount of template for conventional PCR is 10 ng~100 ng, and the system is 2
 
 The temperature and time of the PCR program are determined according to the enzyme used, the length of the PCR and the annealing temperature of the primers.
 
-***Table 6: PCR Reaction Steps***
+***Table 6 PCR Reaction Steps***
 ![Table6](https://static.igem.wiki/teams/5838/project/pcr-steps.webp)
 
 ## IV. Experimental Procedure
