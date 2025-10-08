@@ -21,25 +21,25 @@ actions:
 
 highlights:
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/3.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/3.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/3.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/3.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/3.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/3.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/3.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
     bgImage: https://static.igem.wiki/teams/5838/mainpage/5.webp
@@ -63,25 +63,28 @@ highlights:
     bgImage: https://static.igem.wiki/teams/5838/mainpage/5.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+
+  - header: 
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/1-light.svg
 
   - header: Reborn:PFAS Assassin
     image: /assets/icon/chrome-192.png
@@ -102,6 +105,9 @@ highlights:
       - title: Results
         icon: /assets/icon/file-earmark-bar-graph.svg
         link: /project/results
+
+  - header: 
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/1-light.svg
 
 copyright: false
 footer: Theme by VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
