@@ -9,7 +9,7 @@ bgImageDark: /assets/image/mainpage/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: BJWZ-China
-tagline: Engaging in designing a simple detection and degradation system for PFAS.
+tagline: The PFAS Simple Detection and Degradation System Based on Engineered E. coli<br>——PFAS Assassin
 actions:
   - text: Project
     icon: lightbulb
@@ -63,25 +63,25 @@ highlights:
     bgImage: https://static.igem.wiki/teams/5838/mainpage/5.webp
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: 
-    bgImage: https://static.igem.wiki/teams/5838/mainpage/6.webp
+    bgImage: https://static.igem.wiki/teams/5838/mainpage/7.avif
 
   - header: Reborn:PFAS Assassin
     image: /assets/icon/chrome-192.png
@@ -97,7 +97,7 @@ highlights:
 
       - title: Human Practices
         icon: /assets/icon/person-walking.svg
-        link: /humanpractices
+        link: /human-practices
 
       - title: Results
         icon: /assets/icon/file-earmark-bar-graph.svg
@@ -106,4 +106,3 @@ highlights:
 copyright: false
 footer: Theme by VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
 ---
-1:Short-chain PFAS (C4-C8)

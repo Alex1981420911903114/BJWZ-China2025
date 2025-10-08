@@ -20,7 +20,7 @@
 | Zhou Lesi | STUDENT | Conceptualization, Background Research, Public Engagement, Project Administration, Visualization, Hardware | Analysis, Background Research, Conceptualization, Investigation- as team leader, she came up with the idea of using e-coli to break down water pollutants(specifically PFAS) and completed background research as foundation for the project. Project Administration-she developed our initial project plan. Hardware- she designs the hardware for our water purification device. Visualization- she films parts of the presentation video and edits the team website. Public Engagemt- she participates in team activities to promote our project to the community. |
 | Xinyi Zhang | STUDENT | Investigation, Conceptualization, Hardware, Public Engagement, Analysis | Conceptualization,Investigation- as a member of the WetLab, he participates in brainstorming and experiments. Analysis-he analyses our experiment results through mathematical modeling, helping us optimize further experiments. Public Engagement- he participates in team activities to promote our project to the public. Hardware- he helps design hardware for our water purification device. |
 
-<h2><b><i>Table 2 External Contributions </i></b></h2>
+## ***Table 2 External Contributions***
 
 | Name | Institution Type | Relationship to the team | General Tasks | Specific Tasks |
 | ---- | ---------------- | ------------------------ | ------------- | -------------- |

@@ -1,5 +1,5 @@
 # Human Practices
----
+
 ## Overview
 Our project - “PFAS Assassin” aims to protect the environment and human health. By communicating and cooperating with the public, experts, and organizations, our team was able to continuously refine and improve our project. Our social surveys conducted with students and family members of team members and classmates were crucial in gauging public understanding of our project. After comunicated with professor of biology in the field provided valuable insights that helped us adjust our technical approach and better align our goals with real-world needs, while the synthetic biologist helped us narrow our focus to a specific topic. Feedback from the public, including friends and family, has informed us of the necessity for inclusivity and applicability in our design. By integrating diverse perspectives, we strengthened both the functionality and societal relevance of our solution. This iterative process of listening, analyzing, and refining ensured that our project evolved in a direction that was not only technically sound but also socially responsible and impactful.
 

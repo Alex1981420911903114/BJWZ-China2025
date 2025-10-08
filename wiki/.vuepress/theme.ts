@@ -4,6 +4,12 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
+  lastUpdated: false,
+  contributors: false,
+  editLink: false,
+  changelog: false,
+  pageInfo: false,
+
   darkmode: "disable",
 
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
