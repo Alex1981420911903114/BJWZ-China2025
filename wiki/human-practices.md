@@ -1,75 +1,63 @@
 # Human Practices
 ---
-## Introduction
+## Overview
+Our project - “PFAS Assassin” aims to protect the environment and human health. By communicating and cooperating with the public, experts, and organizations, our team was able to continuously refine and improve our project. Our social surveys conducted with students and family members of team members and classmates were crucial in gauging public understanding of our project. After comunicated with professor of biology in the field provided valuable insights that helped us adjust our technical approach and better align our goals with real-world needs, while the synthetic biologist helped us narrow our focus to a specific topic. Feedback from the public, including friends and family, has informed us of the necessity for inclusivity and applicability in our design. By integrating diverse perspectives, we strengthened both the functionality and societal relevance of our solution. This iterative process of listening, analyzing, and refining ensured that our project evolved in a direction that was not only technically sound but also socially responsible and impactful.
 
-Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS), “persistent chemicals”, are hard to degrade, widely existing in drinking water and soil. In water, they inhibit plant growth and affect humans via the food chain. Conventional monitoring relies on large instruments (e.g., LC-MS), and degradation needs harsh conditions (high temperature/pressure), hard to promote cheaply. Thus, BJWZ-China designed a simple PFAS detection-degradation system using engineered E. coli. To address experiment and scaling challenges, the team improved the program with guidance from BNU/IMCAS professors, WWTP professionals, and partner schools.
+**“The PFAS Simple Detection and Degradation System Based on Engineered E. coli”** is our innovative solution to this challenge. The system enables high-efficiency, low-cost PFAS detection and degrades the substance into harmless byproducts, addressing pollution at its source. Through optimization with institutions like Beijing Normal University and the Institute of Microbiology, Chinese Academy of Sciences, we ensure its stability in real-world applications. We also collaborate with sewage treatment plants and environmental enterprises to align product design with industry needs.
 
-The HP work aims to connect those capable of environmental protection/bioremediation (regardless of age/profession) to protect the living environment. Despite limited spare time, the team contacted cross-field professionals to optimize the project’s practical efficiency and responsibility.
+Guided by values of public health, environmental safety, and responsible innovation, we aim to balance commercial viability with social and environmental impact. This technology, through ongoing refinement, seeks to become a key tool in combating PFAS pollution and safeguarding human health and the natural environment.
 
-## Value
-
-The team integrates HP and social responsibility into engineering design, believing a responsible project’s value lies in both technical parameters and responses to society, environment, and ethics. Guided by “from real needs to practical applications”, it ensures products are reliable and accepted by society.
-
-The team identified all stakeholders (direct users like WWTPs, regulatory agencies via interviews, public), and clarified technical needs and public expectations through in-depth communication. Based on this, three core values were established:
-
-### Public Health
-
-PFAS harms human health; prolonged exposure impairs thyroid/immune/liver functions and raises cancer risk. The team’s goal is to cut PFAS detection-degradation costs for easier wastewater removal. Consultations found industrial WWTPs have high PFAS in wastewater, but systematic removal is hard due to high costs. The engineered E. coli recognizes and decomposes PFAS cheaply, with easy operation and large-scale potential.
-US EPA (2024) set new drinking water PFAS standards (PFOS/PFOA=4ng/L), 1 order of magnitude lower than 2018’s 70ng/L (PFOA+PFOS), but few cases meet this. Peking University (2019) proposed 85ng/L (PFOA) and 47ng/L (PFOS); China now recommends 80ng/L (PFOA) and 40ng/L (PFOS), with no global consensus on standards (needing more scientific evidence).
-Chinese regions (e.g., Sichuan) issued stricter PFAS monitoring standards (effective July 1, 2025). China invests heavily in water pollution control; promoting this technology can reduce PFAS threats to drinking water safety, cut government/enterprise costs, and extend to household purification/agricultural irrigation.
-![hp1](https://static.igem.wiki/teams/5838/hp/hp1.webp)
-
-### Environment Safety
-
-PFAS attach to soil (polluting land) and enter rivers/groundwater (causing water pollution), harming wildlife (developmental abnormalities, infertility) via the food chain. The team developed a synthetic biology-based PFAS degradation system: modified E. coli metabolic pathways degrade common PFAS into harmless products.
-A “suicide switch” in engineered bacteria ensures programmed death post-degradation, preventing live bacteria leakage and secondary pollution. The technology supports green governance (industrial sites, river sediments, groundwater remediation) for ecological civilization.
-
-### Innovative Design
-
-To solve traditional chemical/physical treatment’s high cost and complexity, the team developed a biological method—fast-acting, with built-in detection to monitor PFAS compliance. It cuts costs, maintains cost-effectiveness, and is highly compatible with WWTPs’ existing biological treatment.
-
-In conclusion, integrating these three core values into product design and project development, the team aims to solve PFAS pollution and set a responsible innovation benchmark, balancing commercial, social, and environmental values. Tackling PFAS is a holistic system engineering (integrating technology, economy, environment, society); prioritizing public health, environmental safety, and innovation ensures sustainable project progression.
-
-
-## HP Journey
+## **1. Tracking problems**
 
 In the weekly regular brainstorming activity, when the team members sat around and discussed, some team members mentioned the daily experience of cleaning non-stick pans at home and found that the coating began to fall off. Parents said that they were afraid of being poisonous, so they changed to uncoated iron pans. From this, we began to discuss the non-stick coating, and then pay attention to the PFAS pollution that may be contained in the coating. With the deepening of the discussion, we find that in the current development of science and technology, new pollutants such as PFAS have appeared in the daily contact of high school students, such as some stationery, sports equipment, food packaging, and even drinking water. Solving the problem of PFAS pollution has thus become imperative. At present, the industrial uses of PFAS have been expanded to 1,400 types, and there are 200 different applications of PFAS, including fast food containers, anti-dye fabrics and firefighting foam. In the whole cycle of the product from production to disposal. PFAS may be released into the environment at each step and may be absorbed by the biome. In the long run, most of them will migrate to oceans and marine sediments, and the biological accumulation of aquatic and terrestrial species has been widely observed. Although large-scale monitoring studies have been carried out, however, the adverse consequences of PFAS on ecology and human health are still largely unknown. Therefore, in-depth research and effective management of PFAS pollution are urgent.
 
-**“The PFAS simple detection and degradation system based on engineered E. coli”** developed by our team is an innovative attempt to meet this challenge. The system not only has high-efficiency and low-cost detection capabilities, but also can transform PFAS into harmless substances during the degradation process to reduce its harm to the environment and human body from the source. Through cooperation with authoritative institutions such as Beijing Normal University and the Institute of Microbiology, Chinese Academy of Sciences, we continuously optimize the performance of the system to ensure its stability and reliability in practical applications. At the same time, we also actively communicate with stakeholders such as sewage treatment plants and environmental protection enterprises to understand their actual needs, better adjust the product direction and meet market expectations. In the process of promoting the development of the project, we have always adhered to the core values of public health, environmental safety and responsible innovation, and strived to achieve the harmonious unity of commercial value, social value and environmental value while solving the problem of PFAS pollution. We believe that through continuous efforts and exploration, this technology is expected to become an effective means to control PFAS pollution and contribute to the protection of human health and ecological environment.
-
-**1. Tracking problems**
 PFAS, a new type of pollutant, is known as a "persistent chemical" because of its strong durability. Literature research has found that PFAS is resistant to high temperatures, difficult to degrade, waterproof and oil-resistant, easy to accumulate in the environment, easy to spread with the water system, and contaminate the soil and groundwater. Moreover, the processing costs of the existing technology is high and the cycle is long. In the face of this challenge, our team has turned to synthetic biology，which has the ability to directionally design and transform biological systems in a direction. Our preliminary concept is to use engineered microorganisms as a high-efficiency and low-cost "living factory" to specifically degrade PFAS.
+
 ![hp2+3](https://static.igem.wiki/teams/5838/hp/hp2-3.webp)
 ![hp4](https://static.igem.wiki/teams/5838/hp/hp4.webp)
-After the preliminary design of the experimental plan, we cooperated with Doc. Liu Shuwen, an expert in synthetic biology of the Chinese Academy of Sciences invited by BNU-China, to provide guidance on academic issues, which brought us crucial inspiration. At the same time, it tells us many reasons why synthetic biology is difficult to produce results. For example, many synthetic biology products can function normally in the laboratory, but when the production is expanded to several tons or more, it is very easy to cause large-scale bacterial death and other accidents. It revealed that when we do our own projects, we should not only consider the feasibility in the laboratory, but also predict in advance whether there will be an accident after mass production, which will lead to the expected effect. These are all issues we need to consider.
-Mr. Liu pointed out that a responsible and promising project must transcend the limitations of the laboratory at the beginning of the design and prospectively consider the feasibility and safety in industrial application scenarios. Among them, one of the most critical challenges is biological containment, that is, how to prevent the leak of genetically modified engineering bacteria in open or semi-open application environments, so as to avoid potential ecological risks.
+
+After the preliminary design of the experimental plan, we consulted with Dr. Liu Shuwen, an expert in synthetic biology from the Chinese Academy of Sciences, to provide guidance on academic issues and applicability challenges, his insights provided us crucial inspiration, and narrowed our focus to a specific topic. At the same time, he told us many reasons why synthetic biology is difficult to yield tangible results. For example, many synthetic biology products can function normally in the laboratory, but when the production is expanded to several tons or more, it is very easy to leads to large-scale bacterial mortality and other accidents. He emphasized that when we do our own projects, we should not only consider the feasibility in the laboratory, but also anticipate whether there will be an accident after mass production, which will compromise desired outcomes. These are all issues we need to consider.
+
+Dr. Liu pointed out that a responsible and promising project must transcend the limitations of the laboratory at the beginning of the design and prospectively consider the feasibility and safety in industrial application scenarios. Among them, one of the most critical challenges is biological containment, that is, how to prevent the leak of genetically modified engineering bacteria in open or semi-open application environments, so as to avoid potential ecological risks.
+
 ![hp5+6](https://static.igem.wiki/teams/5838/hp/hp5-6.webp)
 ![hp7](https://static.igem.wiki/teams/5838/hp/hp7.webp)
 
-**2. Solve the problem**
-For the project itself, we liaise with professors in the professional field and ask the professor to provide revised opinions on the details of the project through an online meeting. This improves the feasibility and professionalism of the project, especially professional suggestions on how to select and adapt high-efficiency expression carriers (plasmids). The selection of plasmids is directly related to the expression efficiency of the target protein and the stability of engineering bacteria, which is the cornerstone of the success of the project. At the same time, in dealing with potential ecological risks, we have designed a strictly controllable "suicide switch" system. The system can ensure that engineering bacteria automatically initiate programmatic death after completing the preset degradation task or when escaping from a specific working environment. This exchange has greatly improved the professional depth and technical feasibility of our plan, and avoided directional errors that may occur in the start-up stage.
+## **2. Solve the problem**
+
+For the project, we collaborated with field professors and solicited their feedback on project details via online meetings. These consultations enhanced the project’s feasibility and professionalism, particularly through expert suggestions on selecting and modifying high-efficiency expression vectors (plasmids). The choice of plasmids directly influences target protein expression efficiency and engineered bacteria stability—critical factors for project success.
+
+Additionally, to address potential ecological risks, we designed a strictly regulated "suicide switch" system. This system ensures engineered bacteria undergo programmed cell death upon completing their degradation task or deviating from their designated operational environment. Such exchanges have deepened the plan’s technical rigor and feasibility, helping us avoid directional missteps during the project’s inception.
+
 ![hp8+9](https://static.igem.wiki/teams/5838/hp/8-9.webp)
 ![hp10+11](https://static.igem.wiki/teams/5838/hp/10-11.webp)
+
 After completing the design of experimental ideas, we started to focus on how to practice our ideas, so we took advantage of the holiday to go to the College of Life Sciences of Beijing Normal University for training and experiments. We not only systematically learned the core theoretical knowledge of protein structure and function, enzyme dynamics, etc., but also practiced key molecular biological technologies such as plasmids DNA extraction and gel electrophoresis in the laboratory, and deeply understood the application of chromatography technology in pollutant detection. This training transformed book knowledge into hands-on ability, laying a solid foundation for subsequent independent experimental research.
+
 ![hp12+13](https://static.igem.wiki/teams/5838/hp/12-13.webp)
 ![hp13.5+14](https://static.igem.wiki/teams/5838/hp/13-5-14.webp)
 ![hp15+16](https://static.igem.wiki/teams/5838/hp/15-16.webp)
 
-No technology can exist out of its application scenario. In order to ensure that our engineering bacteria design scheme can seamlessly connect with the real sewage treatment process, we went to Gaobeidian Recycled Water Plant for field research. Through panoramic visits and exchanges - from the biological purification pool to the membrane filtration workshop - we have an in-depth understanding of the complete process chain of sewage treatment. We focused on the biopurification link and confirmed that this is the best access point for the introduction of our degradable engineering bacteria, which can not only make full use of the existing facilities, but also give full play to the advantages of biological treatment, which is perfectly in line with our design concept.
-![hp17](https://static.igem.wiki/teams/5838/hp/17.webp)
+No technology can exist independently of its application scenario. To ensure that our engineering bacteria design scheme can seamlessly integrate with the actual sewage treatment process, we conducted field research at the Gaobeidian Recycled Water Plant. Through comprehensive visits and exchanges—from the biological purification pool to the membrane filtration workshop—we gained an in-depth understanding of the complete process chain of sewage treatment. We focused on the biopurification link and confirmed that this is the optimal point of entry for the introduction of our degradable engineering bacteria. This approach not only makes full use of existing facilities but also maximizes the benefits of biological treatment, aligning perfectly with our design concept.
+
+![](https://static.igem.wiki/teams/5838/hp/17.webp)
 
 Through in-depth communication with on-site engineers and technicians, we learned that sewage treatment plants usually have ultraviolet disinfection links to kill microorganisms in the water. This forms a perfect double insurance with the suicide gene designed in our engineering bacteria. We can link the trigger mechanism of the suicide gene with the ultraviolet irradiation signal to ensure that even a very small number of engineering bacteria will be killed by ultraviolet irradiation. Secondly, we inquired about the concentration of PFAS in the water sample of the factory and learned that in the treatment plant mainly for domestic sewage, the content of PFAS is generally low, and the main source of pollution is actually industrial wastewater. This information allows us to adjust the project strategy and accurately shift the application scenario from domestic sewage treatment plants to sewage treatment plants in industrial parks with more urgent and higher concentrations for PFAS treatment.
+
 ![hp18+19](https://static.igem.wiki/teams/5838/hp/18-19.webp)
 ![hp20+21](https://static.igem.wiki/teams/5838/hp/20-21.webp)
-**3. Expand publicity**
+
+## **3. Expand publicity**
+
 In order to promote our team and project, we introduced the dangers of PFAS and what our project is for in a concise and easy-to-understand way through the school's WeChat official account and published an article. At the same time, the team members were invited to express their feelings after studying and practicing synthetic biology for a long time, so that they could see more of our efforts and the role of biology in solving the practical problems of life.
+
 ![hp22+23](https://static.igem.wiki/teams/5838/hp/22-23.webp)
 ![hp24+25](https://static.igem.wiki/teams/5838/hp/24-25.webp)
+
 In addition, we also went to the exchange meeting organized by Beijing National Day School. Here, we met many other teams in Beijing and carried out friendly exchange activities. Our representative explained the principle and goal of our project to the team present. In the process of listening to other people's reports, we also came into contact with the novel views of other teams. After the report was completed, we took the initiative to further communicate with the members of the team present, asked them if they understood our project to test the logic and integrity of our project, and hoped that they would have better suggestions for our project. At the same time, in order to better publicize our project to the public, we have learned the excellent methods of other teams, such as making questionnaires to carry out campus activities and so on. For us, this kind of face-to-face communication is not only an opportunity to communicate with other teams, but also a test of our own achievements and a valuable feedback and opportunity. This process is not only a one-way output, but also a two-way communication and learning, which helps us look at our projects with a broader perspective.
 
 ![hp26+27](https://static.igem.wiki/teams/5838/hp/26-27.webp)
 ![hp28](https://static.igem.wiki/teams/5838/hp/28.webp)
-
 
 ## Sum up
 

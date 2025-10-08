@@ -3,15 +3,15 @@
 ## Problems
 Short-chain PFAS (per- and polyfluoroalkyl substances with a carbon chain length of C4-C8) are a category of PFAS. PFAS exhibit extremely strong biological stability and have an extremely wide range of impacts on health. They may increase the risk of heart disease in humans and have adverse effects on child development. Studies have shown that PFAS are closely associated with health effects such as high cholesterol, reduced immunity, and induced liver cancer[1][2]. The presence of PFAS also has severe impacts on the ecological environment. They may cause the death of organisms in water, soil, and air, thereby disrupting the balance of the ecological environment. PFAS can bioaccumulate in higher trophic level animals in the food chain, leading to the accumulation of toxins in their bodies. Additionally, PFAS may inhibit the growth of aquatic plants and animals, cause fishery losses, food poisoning, and environmental pollution, among other issues[3]. 
 ![des1](https://static.igem.wiki/teams/5838/project/description1.webp)
-*Figure 1. Exposure to perfluoroalkyl substances and risk of hepatocellular carcinoma in a multiethnic cohort[1]*
+<center><i>Figure 1. Exposure to perfluoroalkyl substances and risk of hepatocellular carcinoma in a multiethnic cohort[1]</i></center>
 
 PFAS are known as "persistent chemicals" as their C-F bonds are extremely difficult to biodegrade naturally-the biodegradation process in nature is cumbersome and time-consuming. Moreover, short-chain PFAS are more soluble in water and more mobile than their long-chain counterparts, and thus have been widely detected in water bodies, soils, and organisms across the globe[4].
 ![des2](https://static.igem.wiki/teams/5838/project/description2.webp)
-*Figure 2. Proposed biodegradation pathways for 6:2 F'TOH (Dotted arrows indicate multiple transformation steps)[4].*
+<center><i>Figure 2. Proposed biodegradation pathways for 6:2 F'TOH (Dotted arrows indicate multiple transformation steps)[4].</i></center>
 
 In soils at multiple monitoring sites across global coastal regions, PFAS pollution is severe. In some areas, long-chain PFOS poses relatively high ecological risks, while the accumulation trend of short-chain PFAS is also on the rise-posing a threat to drinking water safety. Even the Antarctic region has accumulated considerable concentrations of PFAS[5].
 ![des3](https://static.igem.wiki/teams/5838/project/description3.webp)
-*Figure 3. Distribution of the sample sites and the concentrations of PFASs in Antarctic samples[5].*
+<center><i>Figure 3. Distribution of the sample sites and the concentrations of PFASs in Antarctic samples[5].</i></center>
 
 Currently, traditional approaches for treating short-chain PFAS are limited. For example, activated carbon adsorption and reverse osmosis are effective for long-chain PFAS but have low efficiency for short-chain ones. The foam separation method requires the addition of surfactants (such as CTAB) to promote the removal of short-chain PFAS; experiments have shown that the concentration can be reduced to below 8 ng/L, but the cost of large-scale application is relatively high[6]. Meanwhile, the detection of PFAS mainly relies on large-scale instruments for chemical analysis (such as LC-MS), which also has high costs. In summery, both the detection and degradation of PFAS are currently costly and have relatively low processing efficiency[7]. Therefore, innovative approaches are urgently needed for the treatment of short-chain PFAS.
 
